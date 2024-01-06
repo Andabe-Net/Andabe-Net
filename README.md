@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to leverage these technologies 
         -in working with others to connect organisations to their customers, partners, and improve internal workforce using standards of the web
         -to build automation pipelines to ensure APIs are delivered with needed speed and effieciency
-        -to integrate designs that make these possible
+        -to address the challenge of API designs for consistent integration and scability
   
 - 💞️ I’m looking to collaborate on development tasks to digitize business capabilities
 - 📫 How to reach me: andabeamulah@gmail.com

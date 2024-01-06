@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andabe-Net
-- 👀 I’m interested in Linux | Networks | Distributed Computing-Microservices-Cloud | Web APIs
+- 👀 I’m interested in Linux | Networks | Distributed Computing-Microservices-Cloud-DevOps | Web APIs
 - 🌱 I’m currently learning all these through projects
 - 💞️ I’m looking to collaborate on development tasks to digitize business capabilities
 - 📫 How to reach me: andabeamulah@gmail.com

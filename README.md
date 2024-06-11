@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning to leverage these technologies and build until convergence
   
 - 💞️ I’m looking to collaborate on development tasks to digitize business capabilities
-- 📫 How to reach me: andabeamulah@gmail.com
+- 📫 How to reach me: amulah.m1600741@st.futminna.edu.ng
